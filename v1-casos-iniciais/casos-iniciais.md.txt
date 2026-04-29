@@ -1,0 +1,45 @@
+# Casos de Teste - Versão Inicial (v1)
+
+Este arquivo contém meus primeiros casos de teste escritos para o site **SauceDemo**. O objetivo é registrar meu ponto de partida na área de QA e documentar minha linha de raciocínio inicial.
+
+### CT001 - Validar login
+* **Pré-condição:** Usuário estar cadastrado.
+* **Passos:**
+    1. Entrar no site.
+    2. Digitar usuário.
+    3. Digitar senha.
+    4. Dar confirmar.
+* **Resultado Esperado:** Login realizado com sucesso.
+
+---
+
+### CT002 - Login com senha incorreta
+* **Pré-condição:** Usuário cadastrado, mas senha não.
+* **Passos:**
+    1. Entrar no site.
+    2. Digitar usuário.
+    3. Digitar senha errada.
+    4. Dar confirmar.
+* **Resultado Esperado:** Mensagem de senha ou usuário errado.
+
+---
+
+### CT003 - Login com usuário incorreto
+* **Pré-condição:** Usuário não cadastrado, mas senha correta.
+* **Passos:**
+    1. Entrar no site.
+    2. Digitar usuário inválido.
+    3. Digitar senha válida.
+    4. Dar confirmar.
+* **Resultado Esperado:** Mensagem de senha ou usuário errado.
+
+---
+
+### CT004 - Usuário com letras maiúsculas
+* **Pré-condição:** Usuário estar cadastrado.
+* **Passos:**
+    1. Entrar no site.
+    2. Digitar usuário com letras maiúsculas.
+    3. Digitar senha.
+    4. Dar confirmar.
+* **Resultado Esperado:** Mensagem de senha ou usuário errado.
