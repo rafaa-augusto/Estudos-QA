@@ -18,7 +18,7 @@ Para os meus estudos iniciais, utilizei o site [Sauce Demo](https://www.saucedem
 Nesta fase, foquei em entender a lógica do sistema e identificar cenários básicos de login.
 - **O que foi feito:** Criação de 4 casos de teste iniciais.
 - **Aprendizado:** Entendi que o QA precisa pensar tanto no "Caminho Feliz" quanto nos cenários de erro.
-- **Arquivos:** [Acesse a versão 1 aqui](./v1-casos-iniciais.md)
+- **Arquivos:** [Acesse a versão 1 aqui](./v1-casos-iniciais)
 
 ### 📅 Etapa 2: Refinação e Boas Práticas (v2)
 Após receber feedbacks sobre padrões da indústria, refinei a escrita dos testes.
