@@ -6,10 +6,10 @@ Este arquivo contém meus primeiros casos de teste escritos para o site **SauceD
 
 - **Pré-condição:** Usuário estar cadastrado.
 - **Passos:**
-  1. Entrar no site.
-  2. Digitar usuário.
-  3. Digitar senha.
-  4. Dar confirmar.
+  1- Entrar no site.
+  2- Digitar usuário.
+  3- Digitar senha.
+  4- Dar confirmar.
 - **Resultado Esperado:** Login realizado com sucesso.
 
 ---
@@ -18,10 +18,10 @@ Este arquivo contém meus primeiros casos de teste escritos para o site **SauceD
 
 - **Pré-condição:** Usuário cadastrado, mas senha não.
 - **Passos:**
-  1. Entrar no site.
-  2. Digitar usuário.
-  3. Digitar senha errada.
-  4. Dar confirmar.
+  1- Entrar no site.
+  2- Digitar usuário.
+  3- Digitar senha errada.
+  4- Dar confirmar.
 - **Resultado Esperado:** Mensagem de senha ou usuário errado.
 
 ---
@@ -30,10 +30,10 @@ Este arquivo contém meus primeiros casos de teste escritos para o site **SauceD
 
 - **Pré-condição:** Usuário não cadastrado, mas senha correta.
 - **Passos:**
-  1. Entrar no site.
-  2. Digitar usuário inválido.
-  3. Digitar senha válida.
-  4. Dar confirmar.
+  1- Entrar no site.
+  2- Digitar usuário inválido.
+  3- Digitar senha válida.
+  4- Dar confirmar.
 - **Resultado Esperado:** Mensagem de senha ou usuário errado.
 
 ---
@@ -42,8 +42,8 @@ Este arquivo contém meus primeiros casos de teste escritos para o site **SauceD
 
 - **Pré-condição:** Usuário estar cadastrado.
 - **Passos:**
-  1. Entrar no site.
-  2. Digitar usuário com letras maiúsculas.
-  3. Digitar senha.
-  4. Dar confirmar.
+  1- Entrar no site.
+  2- Digitar usuário com letras maiúsculas.
+  3- Digitar senha.
+  4- Dar confirmar.
 - **Resultado Esperado:** Mensagem de senha ou usuário errado.
